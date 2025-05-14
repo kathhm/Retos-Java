@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6955d-506d-408d-a6d1-516b3672a802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sesion01/src/Reto02/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion01/src/Reto02/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion02/src/Reto01/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion02/src/Reto01/SimuladorFarmacia.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/AutoAutonomo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Camara.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Motor.java" afterDir="false" />
@@ -22,6 +22,8 @@
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo03InterfacesYClasesAbstractas/Vigilancia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
