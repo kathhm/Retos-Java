@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6955d-506d-408d-a6d1-516b3672a802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sesion01/src/Reto01/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion01/src/Reto01/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion01/src/Reto02/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion01/src/Reto02/Principal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/AutoAutonomo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Camara.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Motor.java" afterDir="false" />
@@ -36,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
