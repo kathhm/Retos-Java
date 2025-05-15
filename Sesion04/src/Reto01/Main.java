@@ -1,3 +1,5 @@
+package Reto01;
+
 public class Main {
     public static void main (String[] args){
         Factura factura = new Factura("KHM1999","Katherine Hinojosa", 2500);

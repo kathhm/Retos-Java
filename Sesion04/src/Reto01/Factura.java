@@ -1,3 +1,5 @@
+package Reto01;
+
 import java.util.Objects;
 
 public class Factura {
@@ -13,7 +15,7 @@ public class Factura {
 
     @Override
     public String toString() {
-        return "Factura{" +
+        return "Reto01.Factura{" +
                 "folio='" + folio + '\'' +
                 ", cliente='" + cliente + '\'' +
                 ", total= $" + total +
