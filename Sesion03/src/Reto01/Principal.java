@@ -8,5 +8,11 @@ public class Principal {
         Chetumal.reservarAsiento(pasajero);
         System.out.println(Chetumal.obtenerItinerario());
 
+        Chetumal.cancelarReserva();
+        System.out.println(Chetumal.obtenerItinerario());
+
+        Chetumal.reservarAsiento("Katherina","HIMK990501MMSNLT06");
+        System.out.println(Chetumal.obtenerItinerario());
+
     }
 }
