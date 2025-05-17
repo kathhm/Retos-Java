@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6955d-506d-408d-a6d1-516b3672a802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sesion04/src/Reto02/CuentaFiscal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion04/src/Reto02/DeclaracionImpuestos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion04/src/Reto02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Ambulancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Operador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Patrulla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Sirena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/SistemaGPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/UnidadBomberos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/UnidadEmergencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/Autenticable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/CajaRegistradora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/MetodoPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/PagoEfectivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/PagoTarjeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/PagoTransferencia.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/AutoAutonomo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Camara.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Motor.java" afterDir="false" />
@@ -23,9 +33,10 @@
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo03InterfacesYClasesAbstractas/Vigilancia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sesion04/src/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesion04/src/Reto01/Factura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sesion04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesion04/src/Reto01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesion04/src/Reto02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesion04/src/Reto02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sesion04/Reto02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sesion04/Reto02/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,13 +77,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CajaRegistradora.executor": "Run",
+    "Application.CentralEmergencias.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Katherine Hinojosa/Desktop/Curso Java/JAVA- BEDU/Reto-01",
+    "last_opened_file_path": "C:/Users/Katherine Hinojosa/Desktop/Curso Java/Retos-Java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -81,6 +95,29 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Sesion01\src\Reto01-Paciente" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CentralEmergencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Reto01.CentralEmergencias" />
+      <module name="Sesion05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sesion05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reto01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CentralEmergencias" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,5 +129,10 @@
       <updated>1747247935679</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Retos_Java$CentralEmergencias.ic" NAME="CentralEmergencias Coverage Results" MODIFIED="1747422413817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Reto01.*</FILTER>
+    </SUITE>
   </component>
 </project>
