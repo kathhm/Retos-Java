@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6955d-506d-408d-a6d1-516b3672a802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Ambulancia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Operador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Patrulla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/Sirena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/SistemaGPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/UnidadBomberos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto01/UnidadEmergencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/Autenticable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/CajaRegistradora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/MetodoPago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/PagoEfectivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/PagoTarjeta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion05/src/Reto02/PagoTransferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion06/Sesion06.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/AutoAutonomo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Camara.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Motor.java" afterDir="false" />
@@ -31,12 +19,12 @@
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo03InterfacesYClasesAbstractas/DroneVigilancia.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo03InterfacesYClasesAbstractas/Entrega.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo03InterfacesYClasesAbstractas/Vigilancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesion06/Sesion06.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sesion04/src/Reto02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesion04/src/Reto02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sesion04/Reto02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sesion04/Reto02/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,22 +63,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CajaRegistradora.executor": "Run",
-    "Application.CentralEmergencias.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Katherine Hinojosa/Desktop/Curso Java/Retos-Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CajaRegistradora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CentralEmergencias.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Katherine Hinojosa/Desktop/Curso Java/Retos-Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Sesion01\src\Reto01-Paciente" />
