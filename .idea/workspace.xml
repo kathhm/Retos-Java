@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95e6955d-506d-408d-a6d1-516b3672a802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sesion06/src/Reto02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion06/src/Reto02/Recursos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion06/src/Reto02/Tema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion07/Sesion07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion07/src/Reto02/AnalizadorDeLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/Sesion08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/DecisionBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/DialogoTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/GestorDialogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/LogicaDecision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/MainNarrativa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/PaqueteNarrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/TransicionHistoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto01/TransicionSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto02/ConsumoCriticoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion08/src/Reto02/MonitorCPU.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/AutoAutonomo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Camara.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sesion05/src/Ejemplo02HerenciaYComposicion/Motor.java" afterDir="false" />
@@ -27,10 +35,6 @@
       <change beforePath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA- BEDU/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sesion01/src/Reto01/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesion01/src/Reto01/Paciente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sesion06/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesion06/src/Reto01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sesion01/Reto01/Paciente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sesion01/Reto01/Paciente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sesion06/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,29 +76,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CajaRegistradora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CentralEmergencias.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RegistroSimulacion.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Katherine Hinojosa/Desktop/Curso Java/Retos-Java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnalizadorDeLogs.executor": "Run",
+    "Application.CajaRegistradora.executor": "Run",
+    "Application.CentralEmergencias.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainNarrativa.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.RegistroSimulacion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Katherine Hinojosa/Desktop/Curso Java/Retos-Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.qodana"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Modulo08\src\Reto02" />
+      <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Modulo08\src" />
       <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Sesion07\src\Reto01" />
       <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Sesion07\src" />
       <recent name="C:\Users\Katherine Hinojosa\Desktop\Curso Java\Retos-Java\Sesion01\src\Reto01-Paciente" />
