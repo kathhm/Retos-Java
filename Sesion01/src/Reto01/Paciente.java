@@ -26,7 +26,7 @@ public class Paciente {
     }
 
     public void mostrarInformacion(){
-        System.out.println("El nombre del paciente es " + nombre + ", el número de expediente es: " + expediente + " y su edad es: " + edad + "años");
+        System.out.println("El nombre del paciente es " + nombre + ", el número de expediente es: " + expediente + " y su edad es: " + edad + " años");
     }
 
 }
